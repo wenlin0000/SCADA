@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.37906.3
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MyFactoryScada", "MyFactoryScada.csproj", "{C02E4365-60CB-444A-BE65-9F83EDFA3897}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WpfLibrary1", "..\WpfLibrary1\WpfLibrary1.csproj", "{C64BA03F-C465-01D2-1FE8-560E48ABD53E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C02E4365-60CB-444A-BE65-9F83EDFA3897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C02E4365-60CB-444A-BE65-9F83EDFA3897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C02E4365-60CB-444A-BE65-9F83EDFA3897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C02E4365-60CB-444A-BE65-9F83EDFA3897}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C64BA03F-C465-01D2-1FE8-560E48ABD53E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C64BA03F-C465-01D2-1FE8-560E48ABD53E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C64BA03F-C465-01D2-1FE8-560E48ABD53E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C64BA03F-C465-01D2-1FE8-560E48ABD53E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3259F0D2-AE72-41AA-A394-386947359CE8}
+	EndGlobalSection
+EndGlobal

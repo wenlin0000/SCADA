@@ -1,0 +1,21 @@
+{
+  "PlcConnection": {
+    "Brand": "MQTT",
+    "IpAddress": "127.0.0.1",
+    "Port": 1883
+  },
+  "Tags": [
+    {
+      "TagId": "Speed",
+      "Address": "Spindle_Speed",
+      "DataType": "Int16",
+      "Scale": 1.0
+    },
+    {
+      "TagId": "Temp",
+      "Address": "Motor_Temp",
+      "DataType": "Int16",
+      "Scale": 1.0
+    }
+  ]
+}
